@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="171px" height="101px" viewBox="0 0 171 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>credit-card-dark-svg</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Credit-card-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-73.000000, -32.000000)">
+            <g id="credit-card-dark-svg" transform="translate(73.000000, 32.000000)">
+                <rect id="Rectangle" stroke="#FFFFFF" stroke-width="4" x="2" y="2" width="166.434078" height="96.8632218" rx="2.69158185"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" x="12.6247465" y="69.343465" width="31.5618663" height="9.45592704" rx="1.34579093"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" x="50.4989861" y="12.6079027" width="110.466532" height="3.15197568" rx="1.34579093"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" x="12.6247465" y="85.1033434" width="22.0933064" height="3.15197568" rx="1.34579093"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" x="50.4989861" y="69.343465" width="31.5618663" height="9.45592704" rx="1.34579093"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" x="91.5294123" y="69.343465" width="31.5618663" height="9.45592704" rx="1.34579093"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" x="126.247465" y="69.343465" width="31.5618663" height="9.45592704" rx="1.34579093"></rect>
+                <path d="M33.5618663,44.1276595 L44.1865599,44.1267568 L44.1866129,50.8920047 C44.1866129,52.3785243 42.9815506,53.5835866 41.495031,53.5835866 L15.3163284,53.5835866 C13.8298088,53.5835866 12.6247465,52.3785243 12.6247465,50.8920047 L12.6245599,44.1267568 L24.0933064,44.1276595 L24.0933064,37.8237082 L12.6245599,37.8227568 L12.6247465,34.2113387 C12.6247465,32.724819 13.8298088,31.5197568 15.3163284,31.5197568 L41.495031,31.5197568 C42.9815506,31.5197568 44.1866129,32.724819 44.1866129,34.2113387 L44.1865599,37.8227568 L33.5618663,37.8237082 L33.5618663,44.1276595 Z" id="Combined-Shape" fill="#FAE8A8"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="166px" height="102px" viewBox="0 0 166 102" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Invoice-icon-updated0518</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="darkmode" transform="translate(-4.000000, -25.000000)">
+            <g id="Invoice-icon-updated0518" transform="translate(7.000000, 28.000000)">
+                <path d="M3.38,0 L139.111616,0 C140.007973,-1.21550667e-14 140.867623,0.356046655 141.501484,0.989825919 L159.559868,19.0458956 C160.193834,19.679781 160.55,20.5395629 160.55,21.4360697 L160.55,92.95 C160.55,94.8167225 159.036722,96.33 157.17,96.33 L3.38,96.33 C1.51327755,96.33 -4.65637374e-15,94.8167225 0,92.95 L0,3.38 C-6.72696778e-16,1.51327755 1.51327755,2.11926819e-15 3.38,0 Z" id="Rectangle" stroke="#FFFFFF" stroke-width="4.056"></path>
+                <g id="Group-2" transform="translate(23.660000, 50.700000)" stroke="#FFFFFF" stroke-width="4.09656">
+                    <g id="Group-3">
+                        <rect id="Rectangle" x="0" y="0" width="8.07263294" height="8.19312" rx="1.69"></rect>
+                        <rect id="Rectangle" x="0" y="16.38624" width="8.07263294" height="8.19312" rx="1.69"></rect>
+                        <line x1="100.907912" y1="4.09656" x2="113.016861" y2="4.09656" id="Path" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="100.907912" y1="20.4828" x2="113.016861" y2="20.4828" id="Path" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="21.9114323" y1="4.09656" x2="91.1054289" y2="4.09656" id="Path" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="21.9114323" y1="20.4828" x2="91.1054289" y2="20.4828" id="Path" stroke-linecap="round" stroke-linejoin="round"></line>
+                    </g>
+                </g>
+                <text id="Invoice" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="25.35" font-weight="bold" letter-spacing="0.181071427" fill="#FFFFFF">
+                    <tspan x="23.66" y="36.83">Invoice</tspan>
+                </text>
+                <path d="M140.27,0 L140.27,16.9 C140.27,18.7667225 141.783278,20.28 143.65,20.28 L160.55,20.28 L160.55,20.28" id="Path-2" stroke="#FFFFFF" stroke-width="4.09656"></path>
+                <line x1="126.75" y1="85.345" x2="136.89" y2="85.345" id="Path" stroke="#008AFF" stroke-width="4.056" stroke-linecap="round" stroke-linejoin="round"></line>
+            </g>
+        </g>
+    </g>
+</svg>

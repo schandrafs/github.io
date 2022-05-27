@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="166px" height="102px" viewBox="0 0 166 102" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Quote-icon-updated0518</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="darkmode" transform="translate(-227.000000, -25.000000)">
+            <g id="Quote-icon-updated0518" transform="translate(230.000000, 28.000000)">
+                <rect id="Rectangle" stroke="#FFFFFF" stroke-width="4.056" x="0" y="0" width="160.55" height="96.33" rx="2.028"></rect>
+                <g id="Group" transform="translate(110.378125, 28.234655)">
+                    <ellipse id="Oval" stroke="#008AFF" stroke-width="3.2448" cx="20.524858" cy="20.3833072" rx="20.524858" ry="20.3833072"></ellipse>
+                    <text id="$" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="24.336" font-weight="bold" letter-spacing="0.173828575" fill="#008AFF">
+                        <tspan x="13.0750947" y="28.9236481">$</tspan>
+                    </text>
+                </g>
+                <line x1="15.0515625" y1="22.0064224" x2="23.4135417" y2="22.0064224" id="Path-3" stroke="#008AFF" stroke-width="4.563" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="15.0515625" y1="11.6260345" x2="71.9130208" y2="11.6260345" id="Path-3" stroke="#FFFFFF" stroke-width="4.563" stroke-linecap="round" stroke-linejoin="round"></line>
+                <text id="Quote" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="24.336" font-weight="bold" letter-spacing="0.173828575" fill="#FFFFFF">
+                    <tspan x="11.7067708" y="60.2912931">Quote</tspan>
+                </text>
+                <line x1="15.0515625" y1="83.0431034" x2="71.9130208" y2="83.0431034" id="Path-3" stroke="#FFFFFF" stroke-width="4.563" stroke-linecap="round" stroke-linejoin="round"></line>
+            </g>
+        </g>
+    </g>
+</svg>
